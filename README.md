@@ -66,12 +66,12 @@ This dashboard helps stakeholders make informed marketing decisions by providing
 <table>
 <tr>
 <td align="center">
-<b>📊 Meta Ad Performance Dashboard</b><br><br>
+<b>📊 Facebook Performance Dashboard</b><br><br>
 <img src="Facebook.png" width="450">
 </td>
 
 <td align="center">
-<b>📊 Meta Ad Performance Dashboard</b><br><br>
+<b>📊 Instagram Performance Dashboard</b><br><br>
 <img src="Instagram.png" width="450">
 </td>
 </tr>
