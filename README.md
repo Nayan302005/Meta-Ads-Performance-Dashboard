@@ -66,12 +66,18 @@ This dashboard helps stakeholders make informed marketing decisions by providing
 <table>
 <tr>
 <td align="center">
-<b>📊 Facebook Performance Dashboard</b><br><br>
+<b>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="18">
+Facebook Performance Dashboard
+</b><br><br>
 <img src="Facebook.png" width="450">
 </td>
 
 <td align="center">
-<b>📊 Instagram Performance Dashboard</b><br><br>
+<b>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="18">
+Instagram Performance Dashboard
+</b><br><br>
 <img src="Instagram.png" width="450">
 </td>
 </tr>
